@@ -530,6 +530,8 @@ do so), like Python and Java.
 - [yaizkazani](https://github.com/yaizkazani/yaizkazani/tree/master/jorgegonzales_py_practice)
 - [jarv1n](https://github.com/jarv1n/beginner-projects-solutions)
 - [VictoryWekwa](https://github.com/VictoryWekwa/Beginner-Projects)
+- [AsherManangan](https://github.com/AsherManangan/beginner-projects/tree/master/Mga%20Codes)
+
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
